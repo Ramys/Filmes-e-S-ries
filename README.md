@@ -1,2 +1,2 @@
-# Filmes-e-S-ries
+# Filmes-e-Séries
 Filmes, Séries e muito mais.
